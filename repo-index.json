@@ -6,10 +6,10 @@
     {
       "id": "hello-world",
       "name": "Hello World",
-      "version": "1.0.0",
-      "description": "A harmless test plugin that prints a greeting.",
-      "archive_url": "https://raw.githubusercontent.com/xane01/tbox-plugin-registry/main/plugins/hello-world/hello-world-1.0.0.zip",
-      "sha256": "b4b7392e42665a2f01992b21d1763a2d39e1148f6522afefec715e331a70f2d3"
+      "version": "1.0.1",
+      "description": "A harmless test plugin for TBOX Package Manager update testing.",
+      "archive_url": "https://raw.githubusercontent.com/xane01/tbox-plugin-registry/main/plugins/hello-world/hello-world-1.0.1.zip",
+      "sha256": "d735c8700d4cf931b6b7ff99d924a2bfc600cc8dda35a5b0cca86b26f9bd1758"
     }
   ]
 }
