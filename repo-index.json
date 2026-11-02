@@ -1,0 +1,6 @@
+{
+  "schema_version": 1,
+  "name": "TBOX Official Test Registry",
+  "description": "Integration-test catalog for TBOX TERMUX.",
+  "modules": []
+}
