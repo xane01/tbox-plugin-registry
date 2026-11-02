@@ -2,5 +2,14 @@
   "schema_version": 1,
   "name": "TBOX Official Test Registry",
   "description": "Integration-test catalog for TBOX TERMUX.",
-  "modules": []
+  "modules": [
+    {
+      "id": "hello-world",
+      "name": "Hello World",
+      "version": "1.0.0",
+      "description": "A harmless test plugin that prints a greeting.",
+      "archive_url": "https://raw.githubusercontent.com/xane01/tbox-plugin-registry/main/plugins/hello-world/hello-world-1.0.0.zip",
+      "sha256": "b4b7392e42665a2f01992b21d1763a2d39e1148f6522afefec715e331a70f2d3"
+    }
+  ]
 }
