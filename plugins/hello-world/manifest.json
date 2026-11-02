@@ -1,0 +1,9 @@
+{
+  "id": "hello-world",
+  "name": "Hello World",
+  "version": "1.0.0",
+  "category": "development",
+  "description": "A harmless test plugin that prints a greeting.",
+  "entry": "main.py",
+  "dependencies": []
+}
